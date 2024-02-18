@@ -1,0 +1,21 @@
+.header {
+  color: gold;
+}
+
+body {
+  background-color: midnightblue;
+}
+
+.para1 {
+  color: orangered;
+  font-size: 20px;
+}
+
+.para2 {
+  color: papayawhip;
+  font-size: 24px;
+}
+
+.para3 {
+  color: thistle;
+}
